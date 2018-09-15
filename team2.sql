@@ -44,7 +44,7 @@ CREATE TABLE `admin` (
 INSERT INTO `admin` (`id`, `first`, `second`, `user`, `password`) VALUES
 ('1000', 'Dhairya', 'dc', 'dc', 'admin@123'),
 ('101', 'Dhairya', 'Chandra', 'Admin', 'admin@123'),
-('102', 'Raman', 'Shetty', 'Admin2', 'admin@2');
+('102', 'Arun', 'Bhabhoria', 'Admin2', 'admin@2');
 
 -- --------------------------------------------------------
 
